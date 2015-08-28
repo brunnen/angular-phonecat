@@ -1,5 +1,8 @@
 # AngularJS Phone Catalog Tutorial Application
 
+[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
 ## Overview
 
 This application takes the developer through the process of building a web-application using
